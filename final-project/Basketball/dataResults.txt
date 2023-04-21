@@ -1,0 +1,47 @@
+Calculation: Point Difference = Points For - Points Against
+
+Liga A:
+Regular Season: [142, 148, 186, 124, 201, 78, 76, 53, 4, 46, -115, 9, -153, 28, -25, -65, -53, -161, -198, -325]
+Position: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+NBL - Regular Season:
+Regular Season: [170, 120, 40, 78, 50, 46, -114, -90, -300]
+Position: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+WNBL Women:
+Regular Season: [137, 200, 85, 79, -11, -139, -178, -173]
+Position: [1, 2, 3, 4, 5, 6, 7, 8]
+
+National League - Regular Season:
+Regular Season: [624, 102, 46, -48, -293, -431]
+Position: [1, 2, 3, 4, 5, 6]
+
+Premier League:
+Regular Season: [432, 392, 142, 66, -455, -577]
+Position: [1, 2, 3, 4, 5, 6]
+
+NBA:
+Western Conference: [411, 464, 154, 213, 178, 143, 371, -85, -78, 16, -79, -147, -93, -275, -566]
+Position: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Atlantic: [449, 454, 174, -41, -426]
+Position: [1, 2, 3, 4, 5]
+
+Southwest: [213, 371, -78, -79, -93]
+Position: [1, 2, 3, 4, 5]
+
+Pacific: [411, 464, 16, -147, -566]
+Position: [1, 2, 3, 4, 5]
+
+Northwest: [154, 143, 178, -85, -275]
+Position: [1, 2, 3, 4, 5]
+
+Central: [736, 143, -200, -235, -513]
+Position: [1, 2, 3, 4, 5]
+
+Eastern Conference: [736, 449, 454, 143, 215, 174, -41, -74, -439, -336, -200, -426, -235, -534, -513]
+Position: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+Southeast: [215, -74, -439, -336, -534]
+Position: [1, 2, 3, 4, 5]
+
